@@ -1,6 +1,6 @@
 .one{
     background-color: pink;
-    font: 1em sans-serif;
+    font: 1.5em sans-serif;
 }
 
 #two{
@@ -10,4 +10,16 @@
 
 .three{
     background-color: pink;
+    font: 2em sans-serif;
+}
+
+.four{
+    background-color: rgb(102, 234, 186);
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.five{
+    background-color: pink;
+    font: 1.5em sans-serif;
 }
