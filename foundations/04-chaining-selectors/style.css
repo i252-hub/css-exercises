@@ -1,1 +1,25 @@
 /* Add CSS Styling */
+
+.avatar.proportioned{
+    width: 400px;
+    height: auto;
+}
+
+.avatar.distorted{
+    height: 500px;
+    width: 200px;
+}
+
+div{
+    display: flex;
+}
+
+.original.distorted, .original.proportioned{
+    display: inline-block;
+    height: auto;
+    width: 50%;
+    box-sizing: border-box;
+    vertical-align: top;
+    margin: 0;
+    padding: 0;
+}
